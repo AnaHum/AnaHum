@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**AnaHum/AnaHum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**AnaHum/AnaHum** 
 
 - 🔭 I’m currently working at OneFootball :soccer:
 - 🌱 I’m currently learning Docker
